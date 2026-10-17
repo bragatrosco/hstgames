@@ -9,3 +9,5 @@ Guarda-roupas com arraste e alternativas por clique/toque e teclado. Arte PNG de
 Abra index.html para jogar offline. Imagens, estilos, textos e lógica incorporados. Links de acervos precisam de internet.
 
 https://bragatrosco.github.io/hstgames/
+
+Versão 8.1: revisão dos encaixes no Egito. Quatro calçados refeitos sobre os pés de referência, colares e pulseiras menores, vestes registradas no corpo e faixa sem pontas sobrepostas. PNGs fitted-*.png acompanham a publicação. O HTML offline entregue incorpora todas as imagens.
