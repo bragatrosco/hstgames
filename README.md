@@ -1,4 +1,4 @@
 # História em Jogo
-Versão 15: Brasil do século XIX, Rio de Janeiro, 1822–1831 (Primeiro Reinado).
-Sete períodos, 30 personagens adultos e crianças, 270 missões. Guarda-roupas com peças isoladas, arraste, toque, clique e teclado. Ilustrações didáticas rasterizadas de IA, fontes e limites históricos no portal.
+Versão 16: guarda-roupas do Brasil do século XIX ampliado. Colete vinho, xale azul, avental e bolsa de pano para adultos e crianças. 36 missões revisadas nesse cenário; 270 no total, 30 personagens e sete períodos.
+Peças isoladas, arraste/toque/clique/teclado, arte didática rasterizada de IA e fontes históricas com limites da reconstrução.
 https://bragatrosco.github.io/hstgames/
