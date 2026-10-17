@@ -1,13 +1,11 @@
 # História em Jogo — hstgames
 
-Versão 8.0: Ateliê do Tempo com Roma Antiga, Grécia Antiga e Egito Antigo. Catorze personagens e 126 missões.
+Versão 9.0: Ateliê do Tempo com Roma Antiga, Grécia Antiga, Egito Antigo e Europa medieval. Dezoito personagens, incluindo crianças, e 162 missões.
 
-Egito ampliado: faixa de linho e pulseiras de contas para os quatro personagens; saia de linho drapeada para homem e menino, alternativa à veste selecionável. As 36 missões egípcias foram revisadas para explorar os novos itens.
+Europa ocidental medieval, aproximadamente 1250–1400: homem, mulher, menino e menina. Vestes de lã, manto curto e sapatos de couro; 36 novas missões.
 
-Guarda-roupas com arraste e alternativas por clique/toque e teclado. Arte PNG de pintura digital gerada por IA, rotulada como ilustração didática. Fontes, datas e incertezas históricas no portal.
+Guarda-roupas com arraste e alternativas por clique/toque e teclado. Arte PNG de pintura digital gerada por IA, rotulada como ilustração didática. Fontes e limites históricos no portal.
 
-Abra index.html para jogar offline. Imagens, estilos, textos e lógica incorporados. Links de acervos precisam de internet.
+Para jogar offline, use o HTML entregue, com todas as imagens incorporadas. A publicação usa os arquivos med-*.png e fitted-*.png locais do mesmo site.
 
 https://bragatrosco.github.io/hstgames/
-
-Versão 8.1: revisão dos encaixes no Egito. Quatro calçados refeitos sobre os pés de referência, colares e pulseiras menores, vestes registradas no corpo e faixa sem pontas sobrepostas. PNGs fitted-*.png acompanham a publicação. O HTML offline entregue incorpora todas as imagens.
