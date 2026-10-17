@@ -1,6 +1,6 @@
 # História em Jogo — hstgames
 
-Portal pedagógico inclusivo com o jogo Ateliê do Tempo — Roma Antiga, versão 3.0. Dois personagens, vestimentas contextualizadas e 18 missões (nove por personagem).
+Portal pedagógico inclusivo com o jogo Ateliê do Tempo — Roma Antiga, versão 4.0. Seis personagens, incluindo um menino, uma menina e um homem mais velho. São 54 missões (nove por personagem), além da exploração livre.
 
 Site publicado: https://bragatrosco.github.io/hstgames/.
 
@@ -17,6 +17,6 @@ Abra `index.html` em um navegador. O jogo e a arte PNG estão incorporados no ar
 
 ## Conteúdo e acessibilidade
 
-Três níveis por personagem, exploração livre, descrição textual, contraste e tamanho de texto ajustáveis. O homem dispõe de túnica, toga e sandálias; a mulher, de stola, palla e sandálias sobre túnica longa de base. Trocar personagem inicia outra exploração. O progresso é local ao navegador. A leitura por voz depende do dispositivo. Não há cadastro ou envio de respostas.
+Três níveis por personagem, exploração livre, descrição textual, contraste e tamanho de texto ajustáveis. Os guarda-roupas apresentam túnicas, toga, stola, palla, paenula e calçados contextualizados. As roupas infantis têm encaixe próprio. Trocar personagem inicia outra exploração. O progresso é local ao navegador. A leitura por voz depende do dispositivo. Não há cadastro ou envio de respostas.
 
 Ilustração didática gerada por IA, rasterizada em PNG. As fontes históricas e os limites da reconstrução estão no portal. Nenhuma licença aberta é atribuída automaticamente por esta publicação.
