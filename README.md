@@ -1,4 +1,4 @@
-# História em Jogo
-Versão 18: guarda-roupas de 1905–1915 ampliado com colete claro, xale vinho, gravata, laço e bolsa de tecido. Seis escolhas por personagem, versões para adultos e crianças. 36 missões desse cenário revisadas; total de 306 missões, 34 personagens e oito períodos.
-Peças isoladas, arraste/toque/clique/teclado, arte didática rasterizada de IA e fontes com limites da reconstrução.
+# Historia em Jogo
+Versao 18.1: correcao do xale nas personagens feminina adulta e infantil do Brasil de 1905-1915. Xale com caimento ajustado sobre blusa clara ou azul, preservada em ambas as ordens de selecao e na retirada de cada peca. Guarda-roupas com pecas isoladas, arraste, toque, clique e teclado.
+306 missoes, 34 personagens, oito periodos. Arte didatica rasterizada de IA, fontes e limites da reconstrucao.
 https://bragatrosco.github.io/hstgames/
