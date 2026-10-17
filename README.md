@@ -1,6 +1,4 @@
-# História em Jogo — hstgames
-
-Versão 12.0: cinco períodos, 22 personagens e 198 missões.
-Renascimento italiano ampliado com giornea sem mangas, manto de lã e broche dourado com vidro para adultos e crianças. Sobrepeças alternativas sobre a veste clara ou colorida; 36 missões renascentistas revisadas.
-Guarda-roupas por arraste, toque/clique e teclado. Arte rasterizada gerada por IA, fontes e limites históricos no portal. HTML offline separado com as imagens incorporadas.
-https://bragatrosco.github.io/hstgames/
+# História em Jogo
+Portal arcade inclusivo com Ateliê do Tempo. Versão 13: Brasil colonial, Rio de Janeiro, aproximadamente 1776–1790.
+Seis períodos, 26 personagens adultos e crianças, 234 missões. Roupas por arraste, toque, clique ou teclado. Arte rasterizada de IA rotulada como ilustração didática; fontes e limites históricos no portal.
+Site: https://bragatrosco.github.io/hstgames/
