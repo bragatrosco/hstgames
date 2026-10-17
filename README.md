@@ -1,22 +1,11 @@
 # História em Jogo — hstgames
 
-Portal pedagógico inclusivo com o jogo Ateliê do Tempo, versão 6.0. Dois períodos: Roma Antiga (cerca de 100 d.C.) e Grécia Antiga (Atenas, 450–350 a.C.). Dez personagens e 90 missões (nove por personagem), além da exploração livre.
+Versão 7.0: Ateliê do Tempo com Roma Antiga, Grécia Antiga e Egito Antigo (Reino Novo, 1500–1300 a.C.).
 
-Site publicado: https://bragatrosco.github.io/hstgames/.
+Catorze personagens, incluindo crianças. Guarda-roupas com arraste, alternativas por clique/toque e teclado, três níveis e 126 missões.
 
-## Jogar
+O Egito acrescenta quatro personagens, vestes de linho, colares largos e sandálias de fibras vegetais. Arte PNG em pintura digital gerada por IA, rotulada como ilustração didática. Fontes e limites históricos no portal.
 
-Abra `index.html` em um navegador. O jogo e a arte PNG estão incorporados no arquivo e funcionam offline. Arraste as peças do guarda-roupas até o personagem ou selecione uma peça e ative o personagem com toque, clique ou teclado. Use Guardar para retirar.
+Abra index.html para jogar offline. Imagens, estilos, textos e lógica estão incorporados; links para acervos precisam de internet.
 
-## Publicar no GitHub Pages
-
-1. Crie o repositório público `hstgames` na conta `bragatrosco`.
-2. Envie `index.html`, `.nojekyll` e este README para a raiz da branch `main`.
-3. Em Settings → Pages, escolha Deploy from a branch, `main` e `/ (root)`; salve.
-4. Aguarde a confirmação de publicação. Endereço esperado: https://bragatrosco.github.io/hstgames/.
-
-## Conteúdo e acessibilidade
-
-Três níveis por personagem, exploração livre, descrição textual, contraste e tamanho de texto ajustáveis. Roma mantém seis personagens, incluindo crianças. A Grécia apresenta dois adultos e duas crianças, quítons, himátion e sandálias. A personagem adulta pode experimentar um peplo como alternativa ao quíton colorido: vestir um retira o outro. Cada período tem textos e fontes próprios. Trocar personagem inicia outra exploração; trocar de período guarda a exploração anterior neste navegador quando o armazenamento está disponível. A leitura por voz depende do dispositivo. Não há cadastro ou envio de respostas.
-
-Ilustração didática gerada por IA, rasterizada em PNG. As fontes históricas e os limites da reconstrução estão no portal. Nenhuma licença aberta é atribuída automaticamente por esta publicação.
+Site: https://bragatrosco.github.io/hstgames/
