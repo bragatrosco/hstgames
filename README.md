@@ -1,15 +1,11 @@
 # História em Jogo
 
-Portal arcade inclusivo em português, versão 30.0.
+Portal arcade inclusivo em português, versão 31.0.
 
-**Corridas pelo Tempo foi refeito para tempo real.** A corrida avança continuamente após a largada: movimento de cenário, direção livre, velocidade, rivais, contatos, cronômetro e ultrapassagens. O jogo anterior por etapas foi substituído; seus registros continuam preservados na chave original.
+**Corridas pelo Tempo:** simulação contínua de bigas, barco à vela e automóvel de cerca de 1910. Agora é possível dirigir arrastando horizontalmente na pista com o dedo ou o mouse, com resposta gradual do veículo. Teclado e botões mantidos continuam disponíveis. Soltar/cancelar o arraste ou pausar encerra o comando. Avisos indicam a aproximação de rivais à esquerda, à direita ou à frente; alertas de maior risco são espaçados. A repetição do cenário foi suavizada com espelhamento na renderização, sem alterar os PNG originais.
 
-- Biga romana: cruzeiro, impulso com esforço recuperável e ultrapassagens.
-- Barco à vela: corrente lateral, vento periódico, regulagem de vela e passagens de precisão.
-- Automóvel de cerca de 1910: estrada sinuosa, duas marchas, aceleração e freio.
+Mantidos: largada com contagem, direção livre, esforço/impulso na biga, corrente/vela/passagens no barco, curvas/marchas/freio no automóvel, ultrapassagens, cronômetro e recordes por veículo e ritmo. Arcade, Veloz e Assistido. Pausa por P/Escape, perda de foco, troca de jogo ou ocultação da aba. Retomada em pausa e recordes preservados da versão 30. Rolagem opcional, inicialmente desligada com preferência de movimento reduzido.
 
-Três ritmos: Arcade, Veloz e Assistido. Setas ou A/D para dirigir; cima/baixo para ação/freio; Q/E para vela ou marcha. Botões funcionam enquanto pressionados, inclusive por toque. Contagem de três segundos antes da largada. P/Escape pausa, assim como ocultar a aba ou trocar de jogo. A corrida retoma em pausa; recordes separados por veículo e ritmo. Rolagem do cenário opcional, inicialmente desligada com preferência de movimento reduzido. Fullscreen quando suportado.
+Os outros seis jogos e seus scripts foram preservados integralmente: Ateliê do Tempo; Quebra-cabeças históricos; Detetive da História; Engenheiros do Passado; Escape Rooms Históricos; Arqueólogos em Ação. Dados da antiga corrida por turnos também permanecem na chave original.
 
-Os outros seis jogos foram preservados integralmente: Ateliê do Tempo; Quebra-cabeças históricos; Detetive da História; Engenheiros do Passado; Escape Rooms Históricos; Arqueólogos em Ação. Sem cadastro ou envio de respostas.
-
-Arte original PNG rasterizada da versão 29, reutilizada e rotulada como ilustração didática gerada por IA. Veículos, pistas, regras e física são reconstruções e convenções arcade. Fontes e limites históricos no guia docente. O HTML offline incorpora imagens e lógica; fontes externas e vozes podem depender de conexão/dispositivo.
+Arte original PNG rasterizada reutilizada e identificada como ilustração didática de IA. Física, pistas e regras são convenções arcade, sem equivalência com condução real. Fontes e limites no guia docente. HTML offline incorpora imagens e lógica; vozes e referências externas podem depender da conexão/dispositivo. Sem cadastro e sem envio de respostas.
