@@ -1,6 +1,6 @@
 # História em Jogo
 
-Portal arcade inclusivo em português, versão 23.0.
+Portal arcade inclusivo em português, versão 24.0.
 
 ## Jogos
 
@@ -18,3 +18,7 @@ Não há cadastro ou envio de respostas. O Ateliê e seus dados foram preservado
 ## Novo: Detetive da História
 
 Três casos e nove investigações sobre objetos e fontes. Caderno com observações e interpretações separadas, hipóteses com feedback, leitura em voz e consulta local de fichas de fontes. Roma, Atenas e Rio colonial. Progresso salvo por caso e nível, sem alterar os outros jogos.
+
+## Novo: Engenheiros do Passado
+
+Cinco oficinas com montagem por arraste, clique/toque ou teclado. Engrenagens (duas/três), correias abertas/cruzadas e polia menor, roda d’água/moinho, tear com sequência de três ações e locomotiva com biela animada. Nove experiências, pausa, avanço manual, animação opcional e movimento reduzido. Relações cinemáticas idealizadas; corte do cilindro estático, sem simular pressões ou forças. Peças PNG transparentes geradas por IA como ilustrações didáticas. Progresso separado por oficina e preservação dos outros jogos.
