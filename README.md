@@ -1,17 +1,15 @@
 # História em Jogo
 
-Portal arcade inclusivo em português, versão 29.0, no GitHub Pages.
+Portal arcade inclusivo em português, versão 30.0.
 
-- Ateliê do Tempo: nove contextos, 38 personagens e 342 missões.
-- Quebra-cabeças históricos: seis cenas e três níveis.
-- Detetive da História: três casos e nove investigações.
-- Engenheiros do Passado: cinco oficinas e nove experiências.
-- Escape Rooms Históricos: três percursos, nove ambientes e 27 pistas.
-- Arqueólogos em Ação: três setores e nove vestígios, com registro, classificação e exposição.
-- **Corridas pelo Tempo:** biga romana com faixas e esforço; travessia à vela com rumos, vento e ajuste da vela; automóvel do início do século XX com marchas, aceleração, frenagem, curvas e subidas.
+**Corridas pelo Tempo foi refeito para tempo real.** A corrida avança continuamente após a largada: movimento de cenário, direção livre, velocidade, rivais, contatos, cronômetro e ultrapassagens. O jogo anterior por etapas foi substituído; seus registros continuam preservados na chave original.
 
-O sétimo jogo oferece provas por etapas, sem tempo obrigatório ou eliminação, e avanço automático opcional com pausa. Controles nomeados para toque e teclado, sugestões por etapa, leitura em voz opcional e animação com respeito à preferência de movimento reduzido. Progresso local separado por prova; reiniciar afeta somente a selecionada. Os seis scripts anteriores foram preservados integralmente.
+- Biga romana: cruzeiro, impulso com esforço recuperável e ultrapassagens.
+- Barco à vela: corrente lateral, vento periódico, regulagem de vela e passagens de precisão.
+- Automóvel de cerca de 1910: estrada sinuosa, duas marchas, aceleração e freio.
 
-Arte original em PNG rasterizado, criada com image_gen e identificada como ilustração didática de IA. Contextos e veículos são reconstruções interpretativas. Mapas, esforço, velocidades, número de trechos e regras são convenções de jogo, sem equivalência com trajetos ou procedimentos reais. Fontes e limites no guia docente: British Museum, VRoma, Julian Whitewright (2011) e The Henry Ford.
+Três ritmos: Arcade, Veloz e Assistido. Setas ou A/D para dirigir; cima/baixo para ação/freio; Q/E para vela ou marcha. Botões funcionam enquanto pressionados, inclusive por toque. Contagem de três segundos antes da largada. P/Escape pausa, assim como ocultar a aba ou trocar de jogo. A corrida retoma em pausa; recordes separados por veículo e ritmo. Rolagem do cenário opcional, inicialmente desligada com preferência de movimento reduzido. Fullscreen quando suportado.
 
-O HTML offline incorpora imagens e funcionamento. Vozes e referências externas dependem da conexão/dispositivo. Sem cadastro e sem envio de respostas.
+Os outros seis jogos foram preservados integralmente: Ateliê do Tempo; Quebra-cabeças históricos; Detetive da História; Engenheiros do Passado; Escape Rooms Históricos; Arqueólogos em Ação. Sem cadastro ou envio de respostas.
+
+Arte original PNG rasterizada da versão 29, reutilizada e rotulada como ilustração didática gerada por IA. Veículos, pistas, regras e física são reconstruções e convenções arcade. Fontes e limites históricos no guia docente. O HTML offline incorpora imagens e lógica; fontes externas e vozes podem depender de conexão/dispositivo.
