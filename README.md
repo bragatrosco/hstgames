@@ -1,15 +1,16 @@
 # História em Jogo
 
-Portal arcade inclusivo em português, versão 27.0, hospedado no GitHub Pages.
+Portal arcade inclusivo em português, versão 28.0, hospedado no GitHub Pages.
 
-- **Ateliê do Tempo:** nove contextos históricos, 38 personagens e 342 missões, com guarda-roupas acessível.
+- **Ateliê do Tempo:** nove contextos, 38 personagens e 342 missões.
 - **Quebra-cabeças históricos:** seis cenas e montagens de 4, 9 ou 16 peças.
 - **Detetive da História:** três casos e nove investigações.
-- **Engenheiros do Passado:** cinco oficinas e nove experiências com mecanismos didáticos.
-- **Escape Rooms Históricos:** três percursos, nove ambientes e 27 pistas. Europa medieval; Brasil colonial; Quilombo — Caminhos de autonomia.
+- **Engenheiros do Passado:** cinco oficinas e nove experiências.
+- **Escape Rooms Históricos:** três percursos, nove ambientes e 27 pistas.
+- **Arqueólogos em Ação:** campo isométrico com personagem, escavação gradual, limpeza, fichas de contexto, bancada comparativa e exposição. Três setores, nove vestígios e hipóteses justificadas.
 
-O novo percurso acompanha uma comunidade fictícia inspirada em experiências quilombolas do século XVII: casa de sementes, caminho da roça e pátio de encontro. Enigmas sobre cuidado, planejamento e objetos do cotidiano abrem caminhos até uma roda de conversa. Pessoas, falas, mapa e tarefas são criações didáticas, sem atribuí-las a uma comunidade identificada. O contexto distingue história, interpretação e ficção, reconhece resistência, autonomia e diversidade e lembra que comunidades quilombolas continuam vivas.
+O sexto jogo tem arte original rasterizada em estilo 3D e adota a perspectiva e a exploração como referências de Digging Master (NoPowerup / Poki), com objetivos sobre sociedades humanas. Mova por clique/toque/arraste, WASD ou setas; há seletor de quadrícula e botões como alternativas. Segurar a ferramenta repete a ação; Escape interrompe. Sem tempo ou vidas. Apoio revela quadrículas com vestígios. Movimento opcional e preferência de movimento reduzido respeitada.
 
-Os percursos anteriores e suas chaves de progresso foram preservados. Cada percurso salva pistas e passagens separadamente; recomeçar afeta apenas o escolhido. Os outros quatro jogos permanecem com seus scripts e dados separados.
+No campo, revele o recorte, registre a posição, limpe simbolicamente e envie à bancada. Compare as fichas, classifique, selecione evidências e apresente hipóteses provisórias para abrir novos setores e a exposição. O sítio, as medidas, os objetos e as fichas são didáticos e fictícios. O jogo não simula procedimentos profissionais reais; fontes e limites estão no guia docente.
 
-Sem cronômetro, vidas ou sustos. Alternativas por nome às pistas da cena, Tab/Enter/Espaço, apoio, dicas graduais, caderno e leitura em voz opcional. Toda ilustração de jogo é rasterizada e identificada como didática gerada por IA. Fontes e limites constam nos guias. O HTML offline incorpora imagens e funcionamento; links de fontes e vozes dependem de conexão/dispositivo. Sem cadastro ou envio de respostas.
+Os cinco jogos anteriores e seus scripts foram preservados. Progresso de arqueologia separado, com caderno exportável em JSON. Reiniciar afeta somente o setor escolhido. Ilustrações de IA rotuladas; nenhuma arte de jogo em SVG, clipart ou emoji. HTML offline com imagens incorporadas. Fontes externas e vozes dependem de conexão/dispositivo. Sem cadastro ou envio de respostas.
