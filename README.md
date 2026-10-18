@@ -1,11 +1,11 @@
 # História em Jogo
 
-Portal arcade inclusivo em português, versão 21.0.
+Portal arcade inclusivo em português, versão 22.0.
 
 ## Jogos
 
 - **Ateliê do Tempo**: nove contextos históricos, 38 personagens e 342 missões. Guarda-roupas com arraste, toque, clique e teclado.
-- **Quebra-cabeças históricos**: três cenas ilustradas — Óstia cerca de 200 d.C., ateliê de tapeçaria francês cerca de 1400 e Santa Teresa no Rio cerca de 1960. Montagens de 4, 9 ou 16 peças e três descobertas por cena.
+- **Quebra-cabeças históricos**: seis cenas ilustradas — Óstia cerca de 200 d.C., ateliê de tapeçaria francês cerca de 1400 e Santa Teresa no Rio cerca de 1960. Novas cenas: Tebas cerca de 1980 a.C., Atenas cerca de 430 a.C. e Rio colonial cerca de 1780. Montagens de 4, 9 ou 16 peças e três descobertas por cena.
 
 Sem cronômetro ou vidas. Os quebra-cabeças oferecem imagem inteira, imagem-guia, números opcionais e encaixe assistido. Selecionar peça e espaço funciona por clique, toque ou Enter/Espaço. Escape cancela. Os dois jogos salvam o progresso separadamente no navegador.
 
