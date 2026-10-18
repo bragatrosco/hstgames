@@ -1,6 +1,6 @@
 # História em Jogo
 
-Portal arcade inclusivo em português, versão 22.0.
+Portal arcade inclusivo em português, versão 23.0.
 
 ## Jogos
 
@@ -14,3 +14,7 @@ Todas as ilustrações são rasterizadas e identificadas como ilustrações did�
 Hospedagem existente: GitHub Pages. O pacote offline inclui as imagens. Links de fontes e disponibilidade de vozes dependem do dispositivo/conexão.
 
 Não há cadastro ou envio de respostas. O Ateliê e seus dados foram preservados nesta atualização.
+
+## Novo: Detetive da História
+
+Três casos e nove investigações sobre objetos e fontes. Caderno com observações e interpretações separadas, hipóteses com feedback, leitura em voz e consulta local de fichas de fontes. Roma, Atenas e Rio colonial. Progresso salvo por caso e nível, sem alterar os outros jogos.
