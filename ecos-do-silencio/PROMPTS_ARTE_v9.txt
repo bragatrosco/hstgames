@@ -1,0 +1,18 @@
+NOVAS ARTES DA VERSÃO 9 — ferramenta integrada image_gen
+
+1. assets/sala-fotografia.png
+Referência de estilo: assets/colegio-corredor.png.
+
+Game background for next room in the same pixel art Brazilian adventure. Reference image role: visual style and historical architecture. A 1971 Brazilian public school photographic darkroom at night, empty, no people. Detailed crisp pixel clusters like classic 1990s cinematic adventure art, deep navy shadows with muted red safe light, one subtle blue crack of light at door. Camera almost side on, shallow perspective, square-ish landscape 1024x840. Upper left wall has a pinned handwritten instruction card (unreadable small marks, no large text). Under it on left workbench, an old black enlarger with base and small closed envelope of negatives. Middle and right along back wall have exactly three shallow photographic trays side by side on a long wooden bench; small brown bottles with simple triangle, circle, square labels. Red hanging lamp above middle. Old sink and faucet at far right wall. At far left edge a closed wood exit door. Clothesline with blank small sheets above the benches. All worktops and legs end above bottom 32 percent; bottom third is continuous fully CLEAR tiled floor for walking, no stools cables furniture or foreground objects in that strip. Architectural scale door height about half image height. No modern devices. No UI inventory captions or characters. Match reference pixel texture, not smooth painting, not 3D.
+
+2. assets/foto-livraria.png
+
+A single in-game clue image, a developed black-and-white photograph lying flat and filling the frame. 1971 Brazilian city street, a modest old second-hand bookshop facade with wood front door, shuttered windows and shelves visible through glass, narrow side alley on RIGHT leading to rear entrance. Facade sign reads exactly LIVRARIA AURORA, number 28 near door. Small handwritten arrow on the white lower photograph border points right and reads exactly PELOS FUNDOS. On the upper white border handwritten O SÓTÃO. Pixel art for a 1990s cinematic point-and-click adventure, crisp deliberate pixel clusters, limited grayscale palette, slightly sepia aged photo paper, atmospheric evening street. Flat front-facing composition, no photographic camera, no hands, no characters, no UI, no extra captions. Street shop should be clear at small size. Landscape 4:3.
+
+NOVOS ÁUDIOS — Creative Claw
+
+BGM — Lyria 3.5, instrumental, 30000 ms solicitados:
+Thirty-second instrumental background underscore for a quiet photographic darkroom puzzle in a Brazilian historical adventure set in 1971. Restrained mystery and fragile hope, slow 56 BPM feel, D minor, sparse nylon guitar harmonics, soft low bowed strings, a delicate two-note felt piano figure. Begin sparse, maintain low steady energy with long silences between notes, one subtle warmer harmonic change in the last third, return gently to the initial unresolved texture for unobtrusive repetition. Intimate analog character, soft transients, narrow dialogue-safe mix, no percussion beat, no dramatic hits, no voices, no singing, no choir, no environmental sound effects. This is original background game music, not an imitation of an existing score.
+
+Ambience — ElevenLabs Sound Effects v2, 12 s, loop, influência 0,55:
+Quiet small photographic darkroom interior ambience, steady low ventilation fan and faint electrical room tone, sparse soft water drops into a ceramic sink in the background, short tiled-room reflections, close enclosed perspective, low restrained dynamics. Seamless continuous loop, no opening or closing event, no footsteps, no voices, no music, no loud hiss.

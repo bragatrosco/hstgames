@@ -1,0 +1,9 @@
+'use strict';
+(()=>{
+const panel=document.createElement('section');panel.id='endingPanel';panel.className='dialog hidden';panel.setAttribute('role','dialog');panel.setAttribute('aria-modal','true');panel.setAttribute('aria-labelledby','endingTitle');panel.innerHTML='<div class="card"><p>HISTÓRIA CONCLUÍDA</p><h2 id="endingTitle">Ecos do Silêncio</h2><p>Beto nunca retornou. Lucas guardou o diário, a câmera e a lembrança do irmão.</p><p>Contar essa história foi sua forma de resistir ao esquecimento.</p><p class="ending-note">Uma ficção histórica sobre memória e solidariedade, ambientada no Brasil de 1971.</p><button id="endingReplay" class="small">Rever a despedida</button> <button id="endingClose" class="small">Voltar à estação</button></div>';document.body.append(panel);
+const css=document.createElement('style');css.textContent='#endingPanel{z-index:180;background:#030912ed}#endingPanel .card{max-height:88vh;overflow:auto;text-align:center;width:min(650px,100%)}#endingPanel p{line-height:1.7}#endingPanel .ending-note{font-size:14px;color:#afbdcd}#endingPanel button{margin:8px}';document.head.append(css);
+function close(){panel.classList.add('hidden');setWorldInert(SceneCinema.active);stage.focus();}
+$('endingClose').onclick=close;$('endingReplay').onclick=()=>{close();GameMedia.stationEnding();};
+panel.addEventListener('keydown',e=>{if(e.key==='Escape'){e.preventDefault();e.stopImmediatePropagation();close();}if(e.key==='Tab'){const buttons=[...panel.querySelectorAll('button')];if(e.shiftKey&&document.activeElement===buttons[0]){e.preventDefault();buttons.at(-1).focus();}else if(!e.shiftKey&&document.activeElement===buttons.at(-1)){e.preventDefault();buttons[0].focus();}}});
+const before=window.onSceneCinemaFinish;window.onSceneCinemaFinish=type=>{before?.(type);if(type==='station-ending'&&stationState.completed){panel.classList.remove('hidden');setWorldInert(true);$('endingClose').focus();}};
+})();

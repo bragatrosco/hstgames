@@ -1,0 +1,38 @@
+{
+  "lucas-lucas.wav": {
+    "seconds": 4.9804375,
+    "rate": 48000,
+    "channels": 1,
+    "width": 2
+  },
+  "lucas-parents.wav": {
+    "seconds": 5.696479166666666,
+    "rate": 48000,
+    "channels": 1,
+    "width": 2
+  },
+  "lucas-radio.wav": {
+    "seconds": 6.3498125,
+    "rate": 48000,
+    "channels": 1,
+    "width": 2
+  },
+  "lucas-room.wav": {
+    "seconds": 6.1148125,
+    "rate": 48000,
+    "channels": 1,
+    "width": 2
+  },
+  "lucas-street.wav": {
+    "seconds": 6.84825,
+    "rate": 48000,
+    "channels": 1,
+    "width": 2
+  },
+  "tema-ecos-do-silencio.wav": {
+    "seconds": 50.0,
+    "rate": 48000,
+    "channels": 2,
+    "width": 2
+  }
+}
