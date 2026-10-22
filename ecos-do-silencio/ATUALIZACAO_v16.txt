@@ -3,6 +3,6 @@ Versão 16 — Rádio e praça
 Rádio: vídeo ao testar as válvulas, retorno à sintonia e vídeo ao encontrar 9,6 MHz.
 Praça: cinemática aprovada ao concluir o SOS, com legendas de Lucas.
 Final da estação preservado.
-Menu Testar fase: atalhos diretos para cada vídeo.
+Edição publicada: fases liberadas pela progressão da história, sem menu de testes ou atalhos.
 Som de fundo suspenso durante vídeos para evitar sobreposição das trilhas.
 Pausar, continuar, pular e voltar à cena continuam disponíveis.

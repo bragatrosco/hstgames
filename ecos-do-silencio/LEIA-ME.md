@@ -12,9 +12,7 @@ Os cinco atos incluem o quarto de Beto, o colégio e a sala de fotografia, a gr�
 
 Os vídeos novos entram ao ligar o rádio, encontrar 9,6 MHz e concluir o SOS da praça. O encerramento da estação preserva a montagem aprovada. Outros trechos usam animações do próprio jogo. Algumas falas têm voz gravada; todas têm texto. Os vídeos possuem áudio já misturado, com volume controlado pela opção Voz no painel Som.
 
-## Progresso e testes
-O progresso permanece nesta sessão da página. Recarregar a página ou abrir um atalho inicia outra sessão; esta edição não salva automaticamente após fechar ou recarregar. O menu Testar fase continua disponível para ir diretamente a cada cenário ou cinemática.
-
-Atalhos: #teste=quarto, corredor, fotografia, grafica, saida, praca, telhados, estacao, radio, radio-mensagem, praca-video e final. Use apenas um nome após #teste=.
+## Progresso
+O progresso permanece nesta sessão da página. Esta edição não salva automaticamente após fechar ou recarregar. As fases são liberadas ao avançar na história e resolver os desafios.
 
 Nenhum puzzle exige rapidez. Respostas erradas preservam as peças. Consulte SOLUCOES.md quando precisar de ajuda.
