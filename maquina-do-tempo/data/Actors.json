@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[6,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"Nome","nickname":"","note":"","profile":"As alunas e alunos do Brigadeiro são os melhores!"},
+{"id":2,"battlerName":"leonardobat","characterIndex":0,"characterName":"Leonardo","classId":2,"equips":[5,0,2,3,0],"faceIndex":0,"faceName":"Leonardo","traits":[],"initialLevel":1,"maxLevel":99,"name":"Leonardo Da Vinci","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"Lutherbat","characterIndex":0,"characterName":"Luther","classId":4,"equips":[3,0,2,3,4],"faceIndex":0,"faceName":"Luther","traits":[],"initialLevel":1,"maxLevel":99,"name":"Martinho Lutero","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"galileobat","characterIndex":0,"characterName":"Galileo","classId":3,"equips":[1,0,0,4,4],"faceIndex":0,"faceName":"Galileo","traits":[],"initialLevel":1,"maxLevel":99,"name":"Galileo","nickname":"","note":"","profile":""}
+]
